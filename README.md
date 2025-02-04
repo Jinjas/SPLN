@@ -20,6 +20,10 @@ Durante a disciplina, será utilizada a seguinte tecnologia:
 
 - **Python**
 
+## Links de interesse
+
+[Site de apoio do professor](https://natura.di.uminho.pt/~jj/spln2425/)
+
 ## Como Utilizar
 
 1. Clone este repositório:
@@ -30,7 +34,7 @@ Durante a disciplina, será utilizada a seguinte tecnologia:
    ```sh
    sudo apt install python
    ```
-3. Explore os diretórios para encontrar os códigos e trabalhos desenvolvidos.
+3. Explore as pastas para encontrar os códigos e trabalhos desenvolvidos.
 
 ---
 

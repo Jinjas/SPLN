@@ -2,6 +2,22 @@
 
 ## criar rep
 
-### Se houver tpc criar pasta para o pôr
+```
+ SPLN/
+├── projetos/
+│   └──
+├── TPCS/
+│   ├── tpc1/
+│   │   └── readme.md
+│   ├── tpc2/
+│   │   └── readme.md
+│   └── tpcn/
+│       └── readme.md
+├── aulas/
+│   └── aula1.md
+└── README.md
+```
 
-#### no tpc deve haver um readme.md
+┌┐ └ ┘ ├┤ ─ │ ┬ ┴ ┼ ─ Cruzamento de linhas
+
+╱ ╲ ◣ ◢ ◤ ◥

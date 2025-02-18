@@ -1,0 +1,8 @@
+pyproject.toml
+rmduplines.py
+rmduplines.egg-info/PKG-INFO
+rmduplines.egg-info/SOURCES.txt
+rmduplines.egg-info/dependency_links.txt
+rmduplines.egg-info/entry_points.txt
+rmduplines.egg-info/requires.txt
+rmduplines.egg-info/top_level.txt

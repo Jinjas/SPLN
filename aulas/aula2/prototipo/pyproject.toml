@@ -1,0 +1,11 @@
+[project]
+name="rmduplines"
+version="0.1.0"
+authors=[{ name = "Rodrigo", email = "rvcnovo@gmail.com" }]
+
+description=""
+dependencies=["jjcli"]
+
+[project.scripts]
+rl = "rmduplines:main"
+

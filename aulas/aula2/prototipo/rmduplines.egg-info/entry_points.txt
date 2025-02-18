@@ -1,0 +1,2 @@
+[console_scripts]
+rl = rmduplines:main

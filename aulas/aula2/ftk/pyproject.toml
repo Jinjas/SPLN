@@ -1,11 +1,11 @@
 [project]
-name="rmduplines"
+name="ftk"
 version="0.1.0"
 authors=[{ name = "Rodrigo", email = "rvcnovo@gmail.com" }]
 
 description=""
-dependencies=["jjcli"]
+dependencies=["jjcli","re"]
 
 [project.scripts]
-rl = "rmduplines:main"
+ftk-occ = "ftk.base:main"
 

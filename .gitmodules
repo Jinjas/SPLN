@@ -1,3 +1,6 @@
 [submodule "SPLN-TP1"]
 	path = SPLN-TP1
 	url = git@github.com:Ze-Limao/SPLN-TP1.git
+[submodule "SPLN-TP2"]
+	path = SPLN-TP2
+	url = git@github.com:Goncalini/SPLN-TP2.git

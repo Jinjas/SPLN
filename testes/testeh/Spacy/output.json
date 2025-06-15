@@ -1,0 +1,2702 @@
+[
+  {
+    "source": "Elizabeth",
+    "target": "Jane",
+    "weight": 86
+  },
+  {
+    "source": "Darcy",
+    "target": "Elizabeth",
+    "weight": 82
+  },
+  {
+    "source": "Bingley",
+    "target": "Jane",
+    "weight": 54
+  },
+  {
+    "source": "Bingley",
+    "target": "Darcy",
+    "weight": 54
+  },
+  {
+    "source": "Bingley",
+    "target": "Elizabeth",
+    "weight": 51
+  },
+  {
+    "source": "Collins",
+    "target": "Elizabeth",
+    "weight": 42
+  },
+  {
+    "source": "Bennet",
+    "target": "Bingley",
+    "weight": 36
+  },
+  {
+    "source": "Bennet",
+    "target": "Elizabeth",
+    "weight": 30
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Wickham",
+    "weight": 29
+  },
+  {
+    "source": "Darcy",
+    "target": "Wickham",
+    "weight": 28
+  },
+  {
+    "source": "Bennet",
+    "target": "Collins",
+    "weight": 27
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Gardiner",
+    "weight": 24
+  },
+  {
+    "source": "Bennet",
+    "target": "Jane",
+    "weight": 23
+  },
+  {
+    "source": "Darcy",
+    "target": "Jane",
+    "weight": 23
+  },
+  {
+    "source": "Lydia",
+    "target": "Wickham",
+    "weight": 22
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lydia",
+    "weight": 21
+  },
+  {
+    "source": "Darcy",
+    "target": "Darcy",
+    "weight": 16
+  },
+  {
+    "source": "Bennet",
+    "target": "Darcy",
+    "weight": 15
+  },
+  {
+    "source": "Bennet",
+    "target": "Lydia",
+    "weight": 15
+  },
+  {
+    "source": "Bennet",
+    "target": "Bennet",
+    "weight": 14
+  },
+  {
+    "source": "Bingley",
+    "target": "Hurst",
+    "weight": 14
+  },
+  {
+    "source": "Jane",
+    "target": "Wickham",
+    "weight": 13
+  },
+  {
+    "source": "Jane",
+    "target": "Jane",
+    "weight": 13
+  },
+  {
+    "source": "Jane",
+    "target": "Lydia",
+    "weight": 12
+  },
+  {
+    "source": "Collins",
+    "target": "Lady Catherine",
+    "weight": 11
+  },
+  {
+    "source": "Bennet",
+    "target": "Lizzy",
+    "weight": 11
+  },
+  {
+    "source": "Kitty",
+    "target": "Lydia",
+    "weight": 11
+  },
+  {
+    "source": "Bingley",
+    "target": "Wickham",
+    "weight": 11
+  },
+  {
+    "source": "Collins",
+    "target": "Lizzy",
+    "weight": 11
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lady Catherine",
+    "weight": 11
+  },
+  {
+    "source": "Collins",
+    "target": "Jane",
+    "weight": 10
+  },
+  {
+    "source": "Collins",
+    "target": "Lydia",
+    "weight": 10
+  },
+  {
+    "source": "Catherine",
+    "target": "Lydia",
+    "weight": 10
+  },
+  {
+    "source": "Darcy",
+    "target": "Lady Catherine",
+    "weight": 9
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Elizabeth",
+    "weight": 9
+  },
+  {
+    "source": "Gardiner",
+    "target": "Wickham",
+    "weight": 9
+  },
+  {
+    "source": "Darcy",
+    "target": "Fitzwilliam",
+    "weight": 9
+  },
+  {
+    "source": "Jane",
+    "target": "Lizzy",
+    "weight": 8
+  },
+  {
+    "source": "Forster",
+    "target": "Lydia",
+    "weight": 8
+  },
+  {
+    "source": "Bennet",
+    "target": "Meryton",
+    "weight": 8
+  },
+  {
+    "source": "Collins",
+    "target": "Collins",
+    "weight": 8
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Kitty",
+    "weight": 8
+  },
+  {
+    "source": "Lydia",
+    "target": "Lydia",
+    "weight": 8
+  },
+  {
+    "source": "Collins",
+    "target": "Darcy",
+    "weight": 7
+  },
+  {
+    "source": "Wickham",
+    "target": "Wickham",
+    "weight": 7
+  },
+  {
+    "source": "Bingley",
+    "target": "Lizzy",
+    "weight": 7
+  },
+  {
+    "source": "Elizabeth",
+    "target": "William",
+    "weight": 7
+  },
+  {
+    "source": "Lydia",
+    "target": "Meryton",
+    "weight": 7
+  },
+  {
+    "source": "Bennet",
+    "target": "Mary",
+    "weight": 7
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lizzy",
+    "weight": 7
+  },
+  {
+    "source": "Collins",
+    "target": "William",
+    "weight": 7
+  },
+  {
+    "source": "Gardiner",
+    "target": "Jane",
+    "weight": 7
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Fitzwilliam",
+    "weight": 7
+  },
+  {
+    "source": "Bennet",
+    "target": "Lady Catherine",
+    "weight": 7
+  },
+  {
+    "source": "Kitty",
+    "target": "Mary",
+    "weight": 7
+  },
+  {
+    "source": "Darcy",
+    "target": "Hurst",
+    "weight": 6
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Meryton",
+    "weight": 6
+  },
+  {
+    "source": "Collins",
+    "target": "Wickham",
+    "weight": 6
+  },
+  {
+    "source": "Darcy",
+    "target": "Lydia",
+    "weight": 6
+  },
+  {
+    "source": "Darcy",
+    "target": "Gardiner",
+    "weight": 6
+  },
+  {
+    "source": "Bingley",
+    "target": "Lydia",
+    "weight": 5
+  },
+  {
+    "source": "Bennet",
+    "target": "Lady Lucas",
+    "weight": 5
+  },
+  {
+    "source": "Darcy",
+    "target": "Meryton",
+    "weight": 5
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Hurst",
+    "weight": 5
+  },
+  {
+    "source": "Bingley",
+    "target": "Bingley",
+    "weight": 5
+  },
+  {
+    "source": "Denny",
+    "target": "Wickham",
+    "weight": 5
+  },
+  {
+    "source": "Collins",
+    "target": "Philips",
+    "weight": 5
+  },
+  {
+    "source": "Catherine",
+    "target": "Elizabeth",
+    "weight": 5
+  },
+  {
+    "source": "Charlotte",
+    "target": "Elizabeth",
+    "weight": 5
+  },
+  {
+    "source": "Catherine",
+    "target": "Collins",
+    "weight": 5
+  },
+  {
+    "source": "Darcy",
+    "target": "Georgiana",
+    "weight": 5
+  },
+  {
+    "source": "Gardiner",
+    "target": "Lydia",
+    "weight": 5
+  },
+  {
+    "source": "Bingley",
+    "target": "Collins",
+    "weight": 4
+  },
+  {
+    "source": "Austen",
+    "target": "Darcy",
+    "weight": 4
+  },
+  {
+    "source": "Bennet",
+    "target": "Kitty",
+    "weight": 4
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lucas",
+    "weight": 4
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Mary",
+    "weight": 4
+  },
+  {
+    "source": "Bennet",
+    "target": "George Allen",
+    "weight": 4
+  },
+  {
+    "source": "Collins",
+    "target": "Meryton",
+    "weight": 4
+  },
+  {
+    "source": "Denny",
+    "target": "Lydia",
+    "weight": 4
+  },
+  {
+    "source": "Philips",
+    "target": "Wickham",
+    "weight": 4
+  },
+  {
+    "source": "Collins",
+    "target": "De Bourgh",
+    "weight": 4
+  },
+  {
+    "source": "Collins",
+    "target": "Jenkinson",
+    "weight": 4
+  },
+  {
+    "source": "Bennet",
+    "target": "Gardiner",
+    "weight": 4
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Maria",
+    "weight": 4
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Georgiana",
+    "weight": 4
+  },
+  {
+    "source": "Forster",
+    "target": "Wickham",
+    "weight": 4
+  },
+  {
+    "source": "F.",
+    "target": "Lydia",
+    "weight": 4
+  },
+  {
+    "source": "Austen",
+    "target": "Elizabeth",
+    "weight": 3
+  },
+  {
+    "source": "Austen",
+    "target": "Wickham",
+    "weight": 3
+  },
+  {
+    "source": "Bingleys",
+    "target": "Jane",
+    "weight": 3
+  },
+  {
+    "source": "Gardiners",
+    "target": "Lucases",
+    "weight": 3
+  },
+  {
+    "source": "Jane",
+    "target": "Lucases",
+    "weight": 3
+  },
+  {
+    "source": "Lucases",
+    "target": "Wickham",
+    "weight": 3
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "William",
+    "weight": 3
+  },
+  {
+    "source": "Bingley",
+    "target": "Mary",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "Elizabeth Bennet",
+    "weight": 3
+  },
+  {
+    "source": "Elizabeth",
+    "target": "George Allen",
+    "weight": 3
+  },
+  {
+    "source": "Bennet",
+    "target": "Lucas",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "Lucas",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "Forster",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "William",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "William Lucas",
+    "weight": 3
+  },
+  {
+    "source": "Bingley",
+    "target": "Meryton",
+    "weight": 3
+  },
+  {
+    "source": "Carter",
+    "target": "Lydia",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Mary",
+    "weight": 3
+  },
+  {
+    "source": "Bennet",
+    "target": "Wickham",
+    "weight": 3
+  },
+  {
+    "source": "Meryton",
+    "target": "Wickham",
+    "weight": 3
+  },
+  {
+    "source": "De Bourgh",
+    "target": "Elizabeth",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "Lizzy",
+    "weight": 3
+  },
+  {
+    "source": "Bingley",
+    "target": "Eliza",
+    "weight": 3
+  },
+  {
+    "source": "Darcy",
+    "target": "George Wickham",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Lucas",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Kitty",
+    "weight": 3
+  },
+  {
+    "source": "Jane",
+    "target": "Kitty",
+    "weight": 3
+  },
+  {
+    "source": "Bennet",
+    "target": "Longbourn",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Longbourn",
+    "weight": 3
+  },
+  {
+    "source": "Bennet",
+    "target": "Catherine",
+    "weight": 3
+  },
+  {
+    "source": "Longbourn",
+    "target": "Meryton",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Maria",
+    "weight": 3
+  },
+  {
+    "source": "Collins",
+    "target": "Fitzwilliam",
+    "weight": 3
+  },
+  {
+    "source": "Jane",
+    "target": "Maria",
+    "weight": 3
+  },
+  {
+    "source": "Wickham",
+    "target": "Younge",
+    "weight": 3
+  },
+  {
+    "source": "Forster",
+    "target": "Kitty",
+    "weight": 3
+  },
+  {
+    "source": "Bingley",
+    "target": "Georgiana",
+    "weight": 3
+  },
+  {
+    "source": "F.",
+    "target": "W.",
+    "weight": 3
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Longbourn",
+    "weight": 3
+  },
+  {
+    "source": "Edmund",
+    "target": "Fanny",
+    "weight": 2
+  },
+  {
+    "source": "Fanny",
+    "target": "Mary",
+    "weight": 2
+  },
+  {
+    "source": "Fanny",
+    "target": "Norris",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Thackeray",
+    "weight": 2
+  },
+  {
+    "source": "Austen",
+    "target": "Bennet",
+    "weight": 2
+  },
+  {
+    "source": "Bingleys",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Darcy",
+    "weight": 2
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Darcy",
+    "target": "Lucases",
+    "weight": 2
+  },
+  {
+    "source": "Gardiners",
+    "target": "Jane",
+    "weight": 2
+  },
+  {
+    "source": "Gardiners",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Miss de\nBourgh",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Bingley",
+    "target": "Elizabeth Bennet",
+    "weight": 2
+  },
+  {
+    "source": "Lydia",
+    "target": "Mary",
+    "weight": 2
+  },
+  {
+    "source": "Bennets",
+    "target": "Lucases",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Hurst",
+    "weight": 2
+  },
+  {
+    "source": "Forster",
+    "target": "Meryton",
+    "weight": 2
+  },
+  {
+    "source": "Lucas",
+    "target": "Meryton",
+    "weight": 2
+  },
+  {
+    "source": "Eliza",
+    "target": "Elizabeth",
+    "weight": 2
+  },
+  {
+    "source": "Catherine",
+    "target": "Meryton",
+    "weight": 2
+  },
+  {
+    "source": "Hurst",
+    "target": "Hurst",
+    "weight": 2
+  },
+  {
+    "source": "Jane",
+    "target": "Longbourn",
+    "weight": 2
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Elizabeth",
+    "weight": 2
+  },
+  {
+    "source": "Bingley",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "Jane",
+    "target": "Lady Lucas",
+    "weight": 2
+  },
+  {
+    "source": "Caroline",
+    "target": "Darcy",
+    "weight": 2
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lady\nCatherine",
+    "weight": 2
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "de Bourgh",
+    "weight": 2
+  },
+  {
+    "source": "Denny",
+    "target": "Meryton",
+    "weight": 2
+  },
+  {
+    "source": "Denny",
+    "target": "Philips",
+    "weight": 2
+  },
+  {
+    "source": "Lydia",
+    "target": "Philips",
+    "weight": 2
+  },
+  {
+    "source": "Bennets",
+    "target": "Collins",
+    "weight": 2
+  },
+  {
+    "source": "Bennets",
+    "target": "Jane",
+    "weight": 2
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Philips",
+    "weight": 2
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Rosings",
+    "weight": 2
+  },
+  {
+    "source": "Jane",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "Bingley",
+    "target": "Lucas",
+    "weight": 2
+  },
+  {
+    "source": "Lizzy",
+    "target": "Lizzy",
+    "weight": 2
+  },
+  {
+    "source": "Longbourn",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Collins",
+    "target": "Lucases",
+    "weight": 2
+  },
+  {
+    "source": "Charlotte",
+    "target": "Collins",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "Caroline",
+    "target": "Jane",
+    "weight": 2
+  },
+  {
+    "source": "Charlotte",
+    "target": "Lady Catherine",
+    "weight": 2
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Lucas",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Philips",
+    "weight": 2
+  },
+  {
+    "source": "Gardiner",
+    "target": "Longbourn",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Bingleys",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Lucases",
+    "weight": 2
+  },
+  {
+    "source": "Maria",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "Catherine",
+    "target": "Lady Catherine",
+    "weight": 2
+  },
+  {
+    "source": "De Bourgh",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "Jenkinson",
+    "target": "Lady Catherine",
+    "weight": 2
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "William",
+    "weight": 2
+  },
+  {
+    "source": "De Bourgh",
+    "target": "Jenkinson",
+    "weight": 2
+  },
+  {
+    "source": "Bingley",
+    "target": "Lady Catherine",
+    "weight": 2
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "Fitzwilliam",
+    "weight": 2
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "George Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "Jane",
+    "weight": 2
+  },
+  {
+    "source": "Georgiana",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Darcy",
+    "target": "Lady Anne",
+    "weight": 2
+  },
+  {
+    "source": "Meryton",
+    "target": "Meryton",
+    "weight": 2
+  },
+  {
+    "source": "Collins",
+    "target": "Gardiner",
+    "weight": 2
+  },
+  {
+    "source": "Bennet",
+    "target": "Maria",
+    "weight": 2
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "Maria",
+    "weight": 2
+  },
+  {
+    "source": "Lucases",
+    "target": "Maria",
+    "weight": 2
+  },
+  {
+    "source": "Lydia",
+    "target": "Maria",
+    "weight": 2
+  },
+  {
+    "source": "Maria",
+    "target": "Miss Lucases",
+    "weight": 2
+  },
+  {
+    "source": "George",
+    "target": "Kitty",
+    "weight": 2
+  },
+  {
+    "source": "Kitty",
+    "target": "Kitty",
+    "weight": 2
+  },
+  {
+    "source": "Darcy",
+    "target": "Reynolds",
+    "weight": 2
+  },
+  {
+    "source": "Lizzy",
+    "target": "Wickham",
+    "weight": 2
+  },
+  {
+    "source": "Denny",
+    "target": "F.",
+    "weight": 2
+  },
+  {
+    "source": "Lydia",
+    "target": "W.",
+    "weight": 2
+  },
+  {
+    "source": "Bennets",
+    "target": "Lydia",
+    "weight": 2
+  },
+  {
+    "source": "Kitty",
+    "target": "Maria",
+    "weight": 2
+  },
+  {
+    "source": "Bingley",
+    "target": "Philips",
+    "weight": 2
+  },
+  {
+    "source": "George Saintsbury",
+    "target": "Hugh Thomson",
+    "weight": 1
+  },
+  {
+    "source": "George Saintsbury",
+    "target": "Jane Austen",
+    "weight": 1
+  },
+  {
+    "source": "Hugh Thomson",
+    "target": "Jane Austen",
+    "weight": 1
+  },
+  {
+    "source": "CHISWICK PRESS:--CHARLES WHITTINGHAM",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "Hugh Thomson",
+    "target": "J. Comyns Carr",
+    "weight": 1
+  },
+  {
+    "source": "Edmund",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Edmund",
+    "target": "Norris",
+    "weight": 1
+  },
+  {
+    "source": "Fanny",
+    "target": "Fanny",
+    "weight": 1
+  },
+  {
+    "source": "Mary",
+    "target": "Norris",
+    "weight": 1
+  },
+  {
+    "source": "Emma",
+    "target": "Emma",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Rushworth",
+    "weight": 1
+  },
+  {
+    "source": "Rushworth",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Emma",
+    "target": "Frank Churchill",
+    "weight": 1
+  },
+  {
+    "source": "Emma",
+    "target": "Jane Fairfax",
+    "weight": 1
+  },
+  {
+    "source": "Frank Churchill",
+    "target": "Jane Fairfax",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "John\nThorpe",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Norris",
+    "weight": 1
+  },
+  {
+    "source": "John\nThorpe",
+    "target": "Norris",
+    "weight": 1
+  },
+  {
+    "source": "Jane Austen’s",
+    "target": "Spectator",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Miss Burney",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Smollett",
+    "weight": 1
+  },
+  {
+    "source": "Miss Burney",
+    "target": "Smollett",
+    "weight": 1
+  },
+  {
+    "source": "Addison",
+    "target": "Austen",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Lydia Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Musgrove",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Shapely",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Lydia Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Musgrove",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Shapely",
+    "weight": 1
+  },
+  {
+    "source": "Lydia Bennet",
+    "target": "Musgrove",
+    "weight": 1
+  },
+  {
+    "source": "Lydia Bennet",
+    "target": "Shapely",
+    "weight": 1
+  },
+  {
+    "source": "Musgrove",
+    "target": "Shapely",
+    "weight": 1
+  },
+  {
+    "source": "Meissonier",
+    "target": "Memling",
+    "weight": 1
+  },
+  {
+    "source": "Coleridge",
+    "target": "Scott",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Mary Wollstonecraft",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Thackeray",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Thackeray",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Thackeray",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Thackeray",
+    "weight": 1
+  },
+  {
+    "source": "Addison",
+    "target": "Collins",
+    "weight": 1
+  },
+  {
+    "source": "Addison",
+    "target": "Swift",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Swift",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Catherine de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Collins",
+    "weight": 1
+  },
+  {
+    "source": "Bountiful",
+    "target": "earl",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Austen Leigh",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Austen Leigh",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Austen Leigh",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Mary",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Bingleys",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Charlotte Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Charlotte Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte Lucas",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Gardiners",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Miss de\nBourgh",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "Don Juanish",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Don Juanish",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Austen",
+    "target": "Henry Tilney",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Henry Tilney",
+    "weight": 1
+  },
+  {
+    "source": "Argemone Lavington",
+    "target": "Barbara\nGrant",
+    "weight": 1
+  },
+  {
+    "source": "Argemone Lavington",
+    "target": "Beatrix Esmond",
+    "weight": 1
+  },
+  {
+    "source": "Argemone Lavington",
+    "target": "Diana Vernon",
+    "weight": 1
+  },
+  {
+    "source": "Argemone Lavington",
+    "target": "Elizabeth\nBennet",
+    "weight": 1
+  },
+  {
+    "source": "Barbara\nGrant",
+    "target": "Beatrix Esmond",
+    "weight": 1
+  },
+  {
+    "source": "Barbara\nGrant",
+    "target": "Diana Vernon",
+    "weight": 1
+  },
+  {
+    "source": "Barbara\nGrant",
+    "target": "Elizabeth\nBennet",
+    "weight": 1
+  },
+  {
+    "source": "Beatrix Esmond",
+    "target": "Diana Vernon",
+    "weight": 1
+  },
+  {
+    "source": "Beatrix Esmond",
+    "target": "Elizabeth\nBennet",
+    "weight": 1
+  },
+  {
+    "source": "Diana Vernon",
+    "target": "Elizabeth\nBennet",
+    "weight": 1
+  },
+  {
+    "source": "Argemone",
+    "target": "Barbara",
+    "weight": 1
+  },
+  {
+    "source": "Argemone",
+    "target": "Beatrix",
+    "weight": 1
+  },
+  {
+    "source": "Argemone",
+    "target": "Diana",
+    "weight": 1
+  },
+  {
+    "source": "Barbara",
+    "target": "Beatrix",
+    "weight": 1
+  },
+  {
+    "source": "Barbara",
+    "target": "Diana",
+    "weight": 1
+  },
+  {
+    "source": "Beatrix",
+    "target": "Diana",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "GEORGE SAINTSBURY",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Long",
+    "weight": 1
+  },
+  {
+    "source": "Long",
+    "target": "Michaelmas",
+    "weight": 1
+  },
+  {
+    "source": "Long",
+    "target": "Morris",
+    "weight": 1
+  },
+  {
+    "source": "Michaelmas",
+    "target": "Morris",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Long",
+    "weight": 1
+  },
+  {
+    "source": "Mary",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Catherine",
+    "weight": 1
+  },
+  {
+    "source": "Catherine",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Maria Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Miss\nKing",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Maria Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Miss\nKing",
+    "weight": 1
+  },
+  {
+    "source": "Maria Lucas",
+    "target": "Miss\nKing",
+    "weight": 1
+  },
+  {
+    "source": "Bennets",
+    "target": "Longbourn",
+    "weight": 1
+  },
+  {
+    "source": "Meryton",
+    "target": "William Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Meryton",
+    "target": "Robinson",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Long",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Miss Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Long",
+    "target": "Miss Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Jane\nunited",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "George\nAllen",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Forster",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "George\nAllen",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "George\nAllen",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "George\nAllen",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "George\nAllen",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "William",
+    "target": "William Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Carter",
+    "target": "Catherine",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "William",
+    "weight": 1
+  },
+  {
+    "source": "Carter",
+    "target": "Forster",
+    "weight": 1
+  },
+  {
+    "source": "Carter",
+    "target": "Watson",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "Watson",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Watson",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Miss Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Louisa",
+    "weight": 1
+  },
+  {
+    "source": "Hurst",
+    "target": "Jane Bennet,--she",
+    "weight": 1
+  },
+  {
+    "source": "Cheapside",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Cheapside",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Eliza Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Jones",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Jones",
+    "weight": 1
+  },
+  {
+    "source": "Carter",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Carter",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Charles",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "her,--",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "her,--",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "her,--",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "her,--",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Charles",
+    "weight": 1
+  },
+  {
+    "source": "Eliza Bennet",
+    "target": "Elizabeth",
+    "weight": 1
+  },
+  {
+    "source": "Hurst",
+    "target": "Louisa",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Lewis\n     de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Richard",
+    "weight": 1
+  },
+  {
+    "source": "Mary",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Bennets",
+    "target": "Jones",
+    "weight": 1
+  },
+  {
+    "source": "Bennets",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Jones",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Jones",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Jones",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Kitty",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Philipses",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Rosings",
+    "weight": 1
+  },
+  {
+    "source": "Philips",
+    "target": "Rosings",
+    "weight": 1
+  },
+  {
+    "source": "George Allen",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Lady\n",
+    "weight": 1
+  },
+  {
+    "source": "De Bourgh",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Lady Anne Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Lady Anne Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Catherine",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Lady Catherine de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Lady Catherine de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lady Catherine de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Bennets",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Denny",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "George Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "George Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Miss Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Miss Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Miss Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Catherine",
+    "target": "De Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Lady\nLucas",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Lady\nLucas",
+    "weight": 1
+  },
+  {
+    "source": "Hurst",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Miss De Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Jenkinson",
+    "target": "Miss De Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "her,--",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Caroline Bingley",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Georgiana Darcy",
+    "target": "Louisa",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Miss de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Bennets",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Lucas",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "George Allen",
+    "target": "Longbourn",
+    "weight": 1
+  },
+  {
+    "source": "George Allen",
+    "target": "William",
+    "weight": 1
+  },
+  {
+    "source": "Longbourn",
+    "target": "William",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "William Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lady Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Charlotte Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Kitty",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Kitty",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Lucas",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Hertfordshire",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Hertfordshire",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Longbourn",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Caroline",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Caroline",
+    "weight": 1
+  },
+  {
+    "source": "Gardiners",
+    "target": "Philipses",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Philipses",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Fitzwilliam Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Lizzy",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Elizabeth",
+    "weight": 1
+  },
+  {
+    "source": "Caroline",
+    "target": "Hurst",
+    "weight": 1
+  },
+  {
+    "source": "Catherine de Bourgh",
+    "target": "Elizabeth",
+    "weight": 1
+  },
+  {
+    "source": "Maria",
+    "target": "William Lucas",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Gardiner",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Miss King",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "savours",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Lady Catherine\nde Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lady Catherine\nde Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "Catherine",
+    "target": "Maria",
+    "weight": 1
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Maria",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Lewis de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Lewis de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Maria",
+    "weight": 1
+  },
+  {
+    "source": "Jenkinson",
+    "target": "de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Miss de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Miss de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Lady Metcalfe’s",
+    "weight": 1
+  },
+  {
+    "source": "De Bourgh",
+    "target": "Lady Catherine",
+    "weight": 1
+  },
+  {
+    "source": "Jenkinson",
+    "target": "William",
+    "weight": 1
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "Lady Catherine",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "Eliza",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Jenkinson",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "De Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "De Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "George Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Fitzwilliam",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Kent",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Rosings",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Kent",
+    "weight": 1
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "Kent",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "contemptuously,--“yes",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "William Lucas",
+    "weight": 1
+  },
+  {
+    "source": "George Wickham",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Georgiana",
+    "target": "Younge",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "John",
+    "weight": 1
+  },
+  {
+    "source": "Catherine",
+    "target": "Jane",
+    "weight": 1
+  },
+  {
+    "source": "Brighton",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Mary King",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Mary King",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "Forster",
+    "weight": 1
+  },
+  {
+    "source": "Denny",
+    "target": "Pratt",
+    "weight": 1
+  },
+  {
+    "source": "Pratt",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Kitty",
+    "target": "Longbourn",
+    "weight": 1
+  },
+  {
+    "source": "Longbourn",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Miss Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Miss Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "Miss Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Lydia",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Miss Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Lydia",
+    "target": "Miss Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Maria",
+    "target": "Maria",
+    "weight": 1
+  },
+  {
+    "source": "George",
+    "target": "Mary",
+    "weight": 1
+  },
+  {
+    "source": "Kitty",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Forster",
+    "weight": 1
+  },
+  {
+    "source": "Fitzwilliam",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Gardiners",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Reynolds",
+    "weight": 1
+  },
+  {
+    "source": "Lizzy",
+    "target": "Reynolds",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Reynolds",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Ramsgate",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Ramsgate",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Miss Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Miss Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Annesley",
+    "target": "Elizabeth",
+    "weight": 1
+  },
+  {
+    "source": "Annesley",
+    "target": "Gardiner",
+    "weight": 1
+  },
+  {
+    "source": "Annesley",
+    "target": "Darcy",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Georgiana",
+    "weight": 1
+  },
+  {
+    "source": "Eliza",
+    "target": "Meryton",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Eliza Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Gardiner",
+    "weight": 1
+  },
+  {
+    "source": "Denny",
+    "target": "W.",
+    "weight": 1
+  },
+  {
+    "source": "F.",
+    "target": "F.",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "John",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Miss Bennets",
+    "weight": 1
+  },
+  {
+    "source": "Jane",
+    "target": "Miss Bennets",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "Miss\nBennet",
+    "weight": 1
+  },
+  {
+    "source": "Denny",
+    "target": "Forster",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Charlotte",
+    "weight": 1
+  },
+  {
+    "source": "Charlotte",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "Forster",
+    "target": "Gardiner",
+    "weight": 1
+  },
+  {
+    "source": "Gardiner",
+    "target": "Hill",
+    "weight": 1
+  },
+  {
+    "source": "Lady Lucas",
+    "target": "Long",
+    "weight": 1
+  },
+  {
+    "source": "George Allen",
+    "target": "L.",
+    "weight": 1
+  },
+  {
+    "source": "Ashworth",
+    "target": "Haye Park",
+    "weight": 1
+  },
+  {
+    "source": "CHAPTER LI",
+    "target": "George Allen",
+    "weight": 1
+  },
+  {
+    "source": "Hill",
+    "target": "Lucases",
+    "weight": 1
+  },
+  {
+    "source": "Hill",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Hill",
+    "target": "Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Lucases",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Younge",
+    "weight": 1
+  },
+  {
+    "source": "Elizabeth",
+    "target": "de Bourgh",
+    "weight": 1
+  },
+  {
+    "source": "Meryton",
+    "target": "Nichols",
+    "weight": 1
+  },
+  {
+    "source": "Esq",
+    "target": "George Wickham",
+    "weight": 1
+  },
+  {
+    "source": "Esq",
+    "target": "Lydia Bennet",
+    "weight": 1
+  },
+  {
+    "source": "George Wickham",
+    "target": "Lydia Bennet",
+    "weight": 1
+  },
+  {
+    "source": "Bennet",
+    "target": "Sarah",
+    "weight": 1
+  },
+  {
+    "source": "Meryton",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Lady\nCatherine",
+    "weight": 1
+  },
+  {
+    "source": "Lady Catherine",
+    "target": "Lizzy",
+    "weight": 1
+  },
+  {
+    "source": "Darcy",
+    "target": "Kitty",
+    "weight": 1
+  },
+  {
+    "source": "George Allen",
+    "target": "LIX",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Kitty",
+    "weight": 1
+  },
+  {
+    "source": "Collins",
+    "target": "Collinses",
+    "weight": 1
+  },
+  {
+    "source": "Collinses",
+    "target": "Elizabeth",
+    "weight": 1
+  },
+  {
+    "source": "Collinses",
+    "target": "Longbourn",
+    "weight": 1
+  },
+  {
+    "source": "Philips",
+    "target": "Philips",
+    "weight": 1
+  },
+  {
+    "source": "Bingley",
+    "target": "Bingleys",
+    "weight": 1
+  },
+  {
+    "source": "Bingleys",
+    "target": "Lydia",
+    "weight": 1
+  }
+]

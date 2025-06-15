@@ -45,7 +45,7 @@ def get_detalhes_modalidade(modalidade):
     rows = table.find_all('tr')[1:] #skip cabeçalho
     for row in rows:
         cols = row.find_all('td')
-        if len(cols ==2) :
+        if len(cols) ==2 :
             horarios.append(cols[1].text)
     return{
         'dificuldade':modalidade['dificuldade'],
